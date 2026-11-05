@@ -10,9 +10,9 @@
 
 I'm Patrick Tsai (TSAI CHENGYU), an undergraduate student majoring in **Information Management at National Taiwan University**, expected to graduate in June 2028.
 
-I'm interested in how AI, software development, and data analytics can be applied to solve real-world business problems.
+I'm interested in applying AI, software development, and data analytics to solve real-world business problems.
 
-My experience includes **AI application development, system analysis, machine learning, and statistical modeling**. I enjoy working across technical and business perspectives—from understanding user needs and defining requirements to designing workflows, integrating systems, and analyzing data.
+My experience spans **AI application development, system analysis, machine learning, statistical modeling, and software development**. I enjoy connecting user needs with technical solutions—from defining requirements and designing workflows to integrating systems and interpreting data.
 
 I'm currently exploring opportunities in **AI Product Development, Technology Consulting, and Business & Data Analytics**, where I can combine analytical thinking with practical technology implementation.
 
@@ -92,11 +92,27 @@ A collection of two applied machine learning projects focused on text-based pred
 
 **Technologies:** `Python` `scikit-learn` `LightGBM` `TF-IDF` `Feature Engineering`
 
+### 05. [NTU IM Maze Adventure — Your Life in NTU IM](https://github.com/yo1616/NTU-IM-Maze-Adventure)
+
+**C++ · Object-Oriented Programming · Game Development**
+
+A terminal-based maze adventure game developed by a four-member team as a programming course project.
+
+Inspired by university life at NTU, the game features five campus-themed levels, random enemy movement, collectible items, limited-visibility challenges, and multiple ending conditions.
+
+**My Contributions**
+
+- Developed collectible item classes and item interaction logic using C++ object-oriented programming.
+- Applied inheritance and polymorphism to support different item types and behaviors.
+- Contributed to technical documentation and the final project report.
+
+**Technologies:** `C++` `OOP` `Inheritance` `Polymorphism` `File I/O`
+
 ## Technical Skills
 
 | Area | Skills |
 |---|---|
-| **Programming & Data** | Python, SQL, JavaScript, pandas, NumPy |
+| **Programming & Data** | Python, C++, SQL, JavaScript, pandas, NumPy |
 | **AI & Machine Learning** | scikit-learn, LightGBM, NLP, AI API Integration |
 | **Application & System Development** | React, Node.js, Express, REST APIs, SQLite |
 | **Data & Statistical Analysis** | Regression Analysis, Hypothesis Testing, Data Visualization, Statistical Modeling |
